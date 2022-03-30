@@ -1,19 +1,21 @@
 # openvpn-install-script
-Script for automate install OpenVPN on Linux (Debian, Ubuntu) 
+> Script for automate install OpenVPN on Linux (Debian, Ubuntu) 
 
 # Download
-git clone  https://github.com/housekore/openvpn-install-script.git
+>git clone  https://github.com/housekore/openvpn-install-script.git
 
-#Enter in oflder
-cd openvpn-install-script
+Enter in folder
+> cd openvpn-install-script
 
-#Change permissions
-chmod +x openvpn-install.sh
+Change permissions
+> chmod +x openvpn-install.sh
 
-#Execute script
-./openvpn-install.sh
+Run script
+> ./openvpn-install.sh
 
 ####
+
+> and now...
 
 It looks like OpenVPN is already installed.
 
