@@ -15,6 +15,7 @@ Run script
 
 ### Or 
 > curl -O https://raw.githubusercontent.com/housekore/openvpn-install-script/main/openvpn-install.sh
+
 chmod +x openvpn-install.sh
 
 
